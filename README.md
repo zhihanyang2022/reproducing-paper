@@ -1,2 +1,7 @@
-# reproducing-paper
-Reproducing "Paper Title" in PyTorch
+# Paper Title
+
+Unofficial implementation of "Paper Title" in PyTorch
+
+```{bibtex}
+bibtex information
+```
